@@ -1,7 +1,7 @@
 import random
 
 
-# Mesaj de primire + reguli
+# Printing a receving message for the user 
 print('Welcome to our childhood game: \"Rock, Paper, Scissors\" ')
 print("Let's start the game!")
 print(''' Rules:
